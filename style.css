@@ -544,3 +544,17 @@ nav {
 .post-col {
     flex-basis: 65%;
 }
+.profile-intro {
+    background: var(--bg-color);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+.profile-intro h3 {
+    font-weight: 600;
+}
+.intro-text {
+    text-align: center;
+    margin: 10px;
+    font-size: 15px;
+}
